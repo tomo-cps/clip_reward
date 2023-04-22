@@ -1,7 +1,10 @@
 # Fine-grained Image Captioning with CLIP Reward
 
 ## Reference:
-1. <https://github.com/cedro3/CLIP-Caption-Reward>
+- https://github.com/cedro3/CLIP-Caption-Reward
+
+## Paper
+- https://arxiv.org/abs/2205.13115
 
 ## Setting Up Environment
 The Python environment is python==3.7.16
