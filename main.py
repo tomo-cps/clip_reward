@@ -136,7 +136,7 @@ display_pic('images')
 #@title **Generate caption**
  
 # --- Extract visual feature ---
-picture = '01.jpg'#@param {type:"string"}
+picture = '02.jpg'#@param {type:"string"}
 img_path = 'images/'+picture
  
 # display image
