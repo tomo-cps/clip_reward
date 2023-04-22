@@ -23,6 +23,7 @@ $ python main.py
 
 ## Example
 - input image [/images/02.jpg]
+
 ![02.jpg](/images/02.jpg) 
 
 - output caption
